@@ -1,0 +1,15 @@
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\bin\Debug\net6.0\factors.exe
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\bin\Debug\net6.0\factors.deps.json
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\bin\Debug\net6.0\factors.runtimeconfig.json
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\bin\Debug\net6.0\factors.dll
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\bin\Debug\net6.0\factors.pdb
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\obj\Debug\net6.0\factors.csproj.AssemblyReference.cache
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\obj\Debug\net6.0\factors.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\obj\Debug\net6.0\factors.AssemblyInfoInputs.cache
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\obj\Debug\net6.0\factors.AssemblyInfo.cs
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\obj\Debug\net6.0\factors.csproj.CoreCompileInputs.cache
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\obj\Debug\net6.0\factors.dll
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\obj\Debug\net6.0\refint\factors.dll
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\obj\Debug\net6.0\factors.pdb
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\obj\Debug\net6.0\factors.genruntimeconfig.cache
+D:\DLSRFP231\Day5 Basic-core-Programs\factors\obj\Debug\net6.0\ref\factors.dll
